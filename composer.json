@@ -1,5 +1,5 @@
 {
-    "name": "php-components/isocodes",
+    "name": "artcore-society/isocodes",
     "description": "PHP implementation of ISO codes package",
     "type": "library",
     "license": "GPLv3",
